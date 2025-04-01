@@ -1,2 +1,2 @@
-# hasoc2024
+# Hasoc2024
 Classification of Hate Speech and Offensive Content
