@@ -1,4 +1,4 @@
-# HASOC 2021
+# HASOC 2024
 Offensive and problematic content including insulting, hurtful, derogatory or obscene user contributions are pervasive in social media. Societies need to develop adequate response mechanisms in order to find a balance between freedom of expression on one side and the ability to live without oppressive remarks on the other side. A requirement for any response is robust technology for identifying problematic content automatically. HASOC provides a forum for developing and testing text classification systems for various languages
   
 ## Sub-task A: Identifying Hate, offensive and profane content
