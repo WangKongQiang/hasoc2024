@@ -61,12 +61,8 @@ B  | DistilBERT | 57%
 
 
 ## Publication 
-### Cite our paper
-```
-S. Saseendran, S. R, S. V, S. Giri, Classification of Hate Speech and Offensive Content 
-using an approach based on DistilBERT, in: Forum for Information Retrieval Evaluation
-(Working Notes) (FIRE), CEUR-WS.org, 2021.
-```
+code and dataset for 
+English Benchmark Hate Speech and Offensive Content Detection Based on Layer-by-Layer Classification.
 
 ## Code Files: 
 
